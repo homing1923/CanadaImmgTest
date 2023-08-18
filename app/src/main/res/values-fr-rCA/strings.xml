@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="canadian_citizenship_test">" Canada Citoyenneté Questionnaire"</string>
+    <string name="desctext1">Tous les tests pratiques de citoyenneté canadienne sont fondés sur les renseignements fournis dans le guide d\'étude Découvrir le Canada, les droits et responsabilités liés à la citoyenneté. On vous posera des questions sur les faits et les idées présentés dans le guide d\'étude Découvrir le Canada.  Dans ce test, vous aurez un nombre maximum de 9 questions à répondre dans 3 sections différentes, ce sont l\'histoire du Canada, la politique du Canada et la culture du Canada. Vous devez atteindre le score minimum pour réussir chaque section, ils sont respectivement de 33%, 66% et 100% pour chaque section.</string>
+    <string name="start_test">Démarrer l\'essai</string>
+    <string name="app_name">" Questionnaire sur la citoyenneté canadienne"</string>
+    <string name="records">Dossiers</string>
+    <string name="previous_attempts">Tentatives précédentes</string>
+    <string name="clear">Dégager</string>
+    <string name="attempt_number">Numéro de tentative</string>
+    <string name="history">Histoire:</string>
+    <string name="culture">Culture:</string>
+    <string name="politic">Politique:</string>
+</resources>

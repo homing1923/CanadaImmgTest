@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Canada Citizenship Quizer</string>
+    <string name="canadian_citizenship_test">Canadian Citizenship Test</string>
+    <string name="desctext1">All the Canadian citizenship practice tests are based on information provided in study guide Discover Canada the Rights and Responsibilities of Citizenship. You will be asked about facts and ideas presented in the study guide Discover Canada.\n\nIn this test, you will have a maximum number of 9 question to answer in 3 different section, they are Canada history, Canada Politics and Canada Culture. You have to reach the minimum score for passing each section, they are 33%, 66% and 100% for each section respectively.</string>
+    <string name="start_test">Start Test</string>
+    <string name="records">Records</string>
+    <string name="previous_attempts">Previous Attempts</string>
+    <string name="clear">Clear</string>
+    <string name="attempt_number">Attempt Number</string>
+    <string name="history">History:</string>
+    <string name="politic">Politic:</string>
+    <string name="culture">Culture:</string>
+</resources>
